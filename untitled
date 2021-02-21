@@ -1,0 +1,12 @@
+main(),
+void output(int p[], int start, int end), що виводить масив на екран, int maximum(int
+p[], int v), яка повертає значення максимального елемента на ділянці масиву,
+void bubble(int p[], int x[]), void choise(int p[], int x[]) і void insert(int p[], int x[]),
+які виконують сортування масива відповідними методами і вже були описані,
+було додано функції void shell(int p[], int x[]), void hoar(int p[], int first, int last),
+void quick(int p[], int first, int last), а також кілька допоміжних: void swap(int &a,
+int &b), яка дозволяє міняти елементи масиву місцями, та void refresh(int p[], int
+x[]),
+
+
+{'id': 25, 'order': 0, 'name': 'name', 'description': 'description', 'standard_cat': 'standard_cat', 'duration': 33, 'bookable': False, 'price': 12.0, 'group_id': 30, 'price_for': 'price_for', 'show_payment_link': True, 'custom_category_name': 'custom_category_name', 'last_update': '2020-11-11T11:33:21.255271Z', 'images': [1, 2, 3, 4], 'guid': '1242b0b4-c020-4b53-bae9-672d27924012'}
