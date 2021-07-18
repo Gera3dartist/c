@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "cdap.h": "c",
+        "enq.h": "c",
+        "cda.h": "c",
+        "tipsp.h": "c",
+        "tips.h": "c"
+    }
+}
